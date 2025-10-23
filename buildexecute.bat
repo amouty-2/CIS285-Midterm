@@ -1,2 +1,0 @@
-javac factorialcalculator.java
-java factorialcalculator
